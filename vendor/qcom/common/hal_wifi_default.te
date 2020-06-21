@@ -1,4 +1,5 @@
 allow hal_wifi_default wlan_device:chr_file w_file_perms;
+allow hal_wifi_default sysfs_boot_wlan:file w_file_perms;
 
 # Allow wifi hal access to LOWI
 allow hal_wifi_default location:unix_stream_socket connectto;

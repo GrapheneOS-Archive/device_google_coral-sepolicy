@@ -415,3 +415,5 @@ type cnss_vendor_data_file, file_type, data_file_type, mlstrustedobject;
 
 # modem factory data reset file
 type modem_fdr_file, file_type, data_file_type;
+
+type sysfs_boot_wlan, sysfs_type, fs_type;
