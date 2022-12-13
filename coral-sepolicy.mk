@@ -8,7 +8,6 @@ BOARD_SEPOLICY_DIRS += device/google/coral-sepolicy/vendor/qcom/sm8150
 BOARD_SEPOLICY_DIRS += device/google/coral-sepolicy/vendor/knowles/common
 BOARD_SEPOLICY_DIRS += device/google/coral-sepolicy/tracking_denials
 BOARD_SEPOLICY_DIRS += device/google/coral-sepolicy/vendor/st
-BOARD_SEPOLICY_DIRS += device/google/coral-sepolicy/vendor/verizon
 
 # Pixel-wide
 BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/powerstats
